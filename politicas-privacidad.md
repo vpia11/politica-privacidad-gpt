@@ -22,7 +22,7 @@ Nos comprometemos a cumplir con el RGPD y otras normativas de privacidad aplicab
 Si tienes alguna pregunta o duda sobre esta política de privacidad o sobre el manejo de tus datos, puedes escribirnos a [piavanesa@hotmail.com](mailto:piavanesa@hotmail.com). Estamos aquí para ayudarte y garantizar la protección de tu información.
 
 ## 6. Enlace a la Tienda de GPT
-Puedes acceder a nuestro asistente especializado en SIG a través de [https://openai.com/gpt-store/tu-asistente](https://openai.com/gpt-store/tu-asistente). Al usar nuestro servicio, aceptas esta política de privacidad.
+Puedes acceder a nuestro asistente especializado en SIG a través de [https://chatgpt.com/g/g-67df54a5765881919e17554bb6d4f9bb-chatgpt-asistente-sig-en-espanol-qgis-y-arcgis](https://chatgpt.com/g/g-67df54a5765881919e17554bb6d4f9bb-chatgpt-asistente-sig-en-espanol-qgis-y-arcgis). Al usar nuestro servicio, aceptas esta política de privacidad.
 
 ---
 
